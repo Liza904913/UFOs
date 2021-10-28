@@ -1,11 +1,12 @@
 # UFOs
 
 ## Project Overview
-The purpose of the projecy is to build a webpage with with JavaScript, HTML5, CSS3 and D3.js. 
+
+### The purpose of the project is to build a webpage  with JavaScript, HTML5, CSS3 and D3.js. 
 
 ## Results
 
-On  new webpage you can use the search criteria. The user enters the criteria such as date, city, state, country or shape, the change will be detected and the table will be updated.
+### On  new webpage you can use the search criteria. The user enters the criteria such as date, city, state, country or shape, the change will be detected and the table will be updated.
 
 UFO Sightings webpage
 
