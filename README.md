@@ -6,7 +6,7 @@
 
 UFO Sightings webpage
 
-![plot](./UFOs/static/images/img1.png)
+![Img1.png](../UFOs/static/images/Img1.png)
 
 We can search bt filtering parameters 
 
