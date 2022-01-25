@@ -2,11 +2,16 @@
 
 ## Project Overview
 
-### The purpose of the project is to build a webpage  with JavaScript, HTML5, CSS3 and D3.js. 
+This project focuses on building a dynamic webpage that accepts user inputs and adjusts accordingly to display information about UFO sightings.
+In order to perform their analysis, users will be able to filter the UFO sightings table based on multiple criteria such as the event date, city, state, country and shape.
+
+## Resources:
+Data Source: UFO data
+Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 4.0.0 
 
 ## Results
 
-### On  new webpage you can use the search criteria. The user enters the criteria such as date, city, state, country or shape, the change will be detected and the table will be updated.
+On  new webpage you can use the search criteria. The user enters the criteria such as date, city, state, country or shape, the change will be detected and the table will be updated.
 
 UFO Sightings webpage
 
